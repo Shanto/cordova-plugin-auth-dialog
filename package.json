@@ -1,0 +1,25 @@
+{
+	"version": "1.0.0-dev",
+	"name": "com.msopentech.authdialog",
+	"cordova_name": "AuthDialog",
+	"description": "Adds support for authentication dialogs into Apache Cordova",
+	"license": "Apache 2.0",
+	"keywords": [
+		"microsoft",
+		"authentication",
+		"windows",
+		"ntlm"
+	],
+	"platforms": [
+		"ios",
+		"android",
+		"wp8",
+		"windows"
+	],
+	"engines": [
+		{
+			"name": "cordova",
+			"version": ">=4.1.1"
+		}
+	]
+}
